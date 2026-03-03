@@ -1,6 +1,6 @@
 ## QUILL
-![Home Page](showcase_images/Quill Home Page.png)
-![User Page](showcase_images/Quill User Page.png)
+![Home Page](showcase_images/quill-home.png)
+![User Page](showcase_images/quill-user.png)
 
 ---
 ### Intro
