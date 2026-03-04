@@ -1,10 +1,12 @@
-## QUILL
+# Quill
 ![Home Page](showcase_images/quill-home.png)
 ![User Page](showcase_images/quill-user.png)
 
 ---
+
 ### Intro
-Quill is a full stack app made using native JavaScript with HTML/CSS for the front end and Django and python for the back end.
+Quill is a full-stack social network app made using JavaScript, HTML, and CSS for the front-end and Django + Python for the back-end.
+
 Coding features:
 - The ability to make secure accounts
 - Make posts and see the home page update without re-loading the page
@@ -13,6 +15,4 @@ Coding features:
 
 ---
 ### Run-Instructions
-For now you need to download the repository have django installed, then run the line:
-ios: python3 manage.py runserver
-windows: python manage.py runserver
+No online deployment currently, can be run using a code editor and [Django](https://docs.djangoproject.com/en/6.0/)
